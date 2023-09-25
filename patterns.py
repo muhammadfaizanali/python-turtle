@@ -35,7 +35,7 @@ class patterns:
                 break
 
 
-# pat1=patterns(distance=50,ang=45)  
+pat1=patterns(distance=50,ang=45)  
 
 t.mainloop()
 
